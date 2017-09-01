@@ -1,7 +1,7 @@
 # Obj2GlbConverter
 Create a glb for Windows Mixed Reality 3D Icons using an implementation of AnalyticalGraphicsInc's obj2gltf library.
 
-![alt tag](https://github.com/LanceMcCarthy/Obj2GlbConverter/screenshots/Result.jpg)
+![NodeJS](https://github.com/LanceMcCarthy/Obj2GlbConverter/screenshots/Result.jpg)
 
 ## Steps to recreate and usage
 
